@@ -7,5 +7,6 @@ int main() {
 
     cout << "Hello, World!\n";
     cout << "Welcome to C++ programming.\n";
+    cout << "git commit has been done.\n";
     return 0;
 }
