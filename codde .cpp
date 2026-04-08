@@ -8,5 +8,6 @@ int main() {
     cout << "Hello, World!\n";
     cout << "Welcome to C++ programming.\n";
     cout << "git commit has been done.\n";
+    cout << "This is a sample code for demonstration purposes.\n";
     return 0;
 }
