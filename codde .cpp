@@ -6,6 +6,6 @@ int main() {
     cin.tie(nullptr);
 
     cout << "Hello, World!\n";
-
+    cout << "Welcome to C++ programming.\n";
     return 0;
 }
